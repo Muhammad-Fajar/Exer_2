@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQliteConnection</string>
+    
+    <!--  popmenu  -->
+    <string name="deletedata">Delete Data</string>
+    <string name="editdata">Edit Data</string>
+
+
+</resources>
